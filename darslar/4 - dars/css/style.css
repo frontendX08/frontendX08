@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(216, 60, 49);
+    font-size: 350%;  
+}
+h1{
+ 
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20%;
+  
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    text-align: center;
+    display: flex;
+    list-style:none;
+}
+li{
+    margin: 20px;
+    width: 200;
+}
+span{
+    color: rgb(242, 13, 13);
+}
+

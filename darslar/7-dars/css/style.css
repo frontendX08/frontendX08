@@ -1,0 +1,47 @@
+.header {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.main1 {
+    display: flex;
+    margin-left: 10%;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main2 {
+    display: flex;
+    margin-left:20%; 
+    list-style: none;
+    justify-content: space-around;
+    align-items:center
+}
+
+.footer1 {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items:center;
+    margin-left: 40%;
+    margin-right: 32%;
+
+
+}
+.footer {
+    text-decoration: none;
+    color: aliceblue;
+  
+    
+    background-color: rgb(6, 114, 230);
+}
+
+.foot{
+     justify-content: space-between;
+    align-items: center;
+}
+

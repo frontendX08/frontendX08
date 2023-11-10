@@ -1,0 +1,26 @@
+.footer{
+    text-align: center;
+}
+
+.footer-text {
+    
+    margin: 0 auto;
+    width: 719px;
+    height: 48px;
+}
+
+.footer-list {
+    text-align: center;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+}
+
+.footer-link {
+    text-align: center;
+    margin: 0 auto;
+    border: 2px solid blue;
+    background-color: rgb(15, 106, 203);
+    border:none;
+    margin-left: 300px;
+}
